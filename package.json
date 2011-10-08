@@ -1,0 +1,7 @@
+{
+    "name" : "old-magic",
+    "version" : "1.0.0",
+    "author" : "Joshua Kehn <josh@kehn.us>",
+    "keywords" : ["_ale", "oldmagic", "magic", "old-magic"],
+    "main" : "index.js"
+}
