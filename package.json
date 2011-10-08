@@ -1,6 +1,6 @@
 {
     "name" : "old-magic",
-    "version" : "1.0.0",
+    "version" : "1.0.2",
     "author" : "Joshua Kehn <josh@kehn.us>",
     "keywords" : ["_ale", "oldmagic", "magic", "old-magic"],
     "repository" : "git://github.com/joshkehn/old-magic.git",
